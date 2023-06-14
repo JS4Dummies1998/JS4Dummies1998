@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @JS4Dummies1998
+- 👋 Hi there, I’m Toan Tran
 - 👀 I’m interested in playing music instrument like piano, violin, saxophone
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on GitHub community
